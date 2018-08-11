@@ -4,3 +4,22 @@ A Web base accounting Software written with angular, ASP.NET MVC 5, Web API, Ent
 Visit http://www.effectivonline.com
 Login as a Branch Manager to test out some features,  use 
 ritaachebe as user id, and ritaachebe as Password
+
+
+You could use this accounts to test other restricted functions, use thesame user id value for password as well
+
+
+	Purchase Manager 1
+purchase-manager1 
+
+	Accountant General
+accountant 	
+	
+	Inventory Manager
+inventory1 		
+
+	Sales Point 2
+sales-point2 	
+	
+	Sales Point 1
+sales-point1
