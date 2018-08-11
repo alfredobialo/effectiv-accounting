@@ -8,6 +8,8 @@ ritaachebe as user id, and ritaachebe as Password
 
 You could use this accounts to test other restricted functions, use thesame user id value for password as well
 
+Branch Manager Account 
+samphina
 
 	Purchase Manager 1
 purchase-manager1 
